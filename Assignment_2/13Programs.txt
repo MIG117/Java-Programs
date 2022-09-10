@@ -1,0 +1,28 @@
+8. Write a program to calculate factorial of 12. 
+9. Write a program for Fibonacci series. 
+10. Write a program to reverse a number. 
+
+11. Admission to a professional course is subject to the following conditions: 
+(a) marks in Mathematics >= 60 
+(b) marks in Physics >=50 
+(c) marks in Chemistry >=40 
+(d) Total in all 3 subjects >=200 (Or) Total in Maths & Physics>=150 
+Given the marks in the 3 subjects of n (user input) students, 
+write a program to process the applications to list the eligible candidates. 
+
+12. Write a program to find all roots of a quadratic equation. 
+
+13. Write a program to calculate the sum of natural numbers up to a certain range. 
+
+14. Write a program to print all multiple of 10 between a given interval. 
+
+15. Write a program to generate multiplication table. 
+
+16. Write a program to find HCF of two Numbers. 
+17. Write a program to find LCM of two Numbers. 
+
+18. Write a program to count the number of digits of an integer. 
+
+19. Write a program to calculate the exponential of a number. 
+20. Write a program to check whether a number is palindrome or not. 
+21. Write a program to check whether a number is prime or not.

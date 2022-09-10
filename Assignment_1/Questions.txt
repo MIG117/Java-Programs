@@ -1,0 +1,7 @@
+1. Write a program to find area and perimeter of a circle. 
+2. Write a Program to display whether a number is odd or even. 
+3. Write a Program to check if a number is Positive or Negative. 
+4. Write a program to find maximum of three numbers. 
+5. Write a program to swap two numbers. 
+6. Write a program to convert miles to kilometers.
+7. Write a program to check whether a year is leap year or not. 
