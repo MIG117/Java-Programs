@@ -1,0 +1,12 @@
+31.  Write a Java program to calculate Sum & Average of an integer array. #
+32.  Write a Java program to calculate Sum of two 2-dimensional arrays.#
+33.  Write a Java program to find the range of a 1D array. #
+34.  Write a Java program to search an element in an array. #
+35.  Write a Java program to find the sum of even numbers in an integer array. #
+
+36.  Write a Java program to find the sum of diagonal elements in a 2D array.  #
+37.  Reverse the elements in an array of integers without using a second array. #
+38.  Write a Java program to enter n elements in an array and find smallest number among them. #
+39.  Write a program to find the no of occurrence for an array element in array. #
+40.  Reverse the elements in an array of integers using a second array.
+41.  Write a Java program to calculate the Multiplication of Matrices using two 2-dimensional arrays. #
