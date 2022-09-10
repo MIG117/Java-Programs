@@ -1,0 +1,49 @@
+
+21. Write a Java program to convert a Decimal to Binary.
+
+22. Write a Java program to convert a Binary Number to Decimal.
+
+23. Write a Java program to find median of a set of numbers.
+
+24. Write a program to compute the value of Euler’s number that is used as the base of
+natural logarithms. Use the following formula. e= 1+ 1/1! +1 /2! + 1/3+................ 1/n!
+
+25. Write a Java program to generate all combination of 1, 2, or 3 using loop.
+
+26. Write  a  Java  program  to  read  two  integer  values  m  and  n  and  to  decide  and  print
+whether m is multiple of n. 
+
+27. Write a Java program to display prime numbers between a given interval. 
+
+28. Write a Java program to check whether a given number is Armstrong Number or not.   
+    
+    Write Java programs for the patterns given bellow: (23-25) 
+29. 
+1
+2 3 4
+5 6 7 8 9
+
+30.           
+       1
+     2 1 2
+   3 2 1 2 3
+ 4 3 2 1 2 3 4
+
+31.  
+ 1          1
+   2      2
+     3  3
+       4
+
+                                                         ARRAY
+
+1.  Write a Java program to calculate Sum & Average of an integer array.
+2.  Write a Java program to implement stack using array.
+3.  Write a Java program to implement Queue using array.
+4.  Write a Java program to calculate Sum of two 2-dimensional arrays.
+5.  Write a Java program to find the range of a 1D array.
+6.  Write a Java program to search an element in an array.
+7.  Write a Java program to find the sum of even numbers in an integer array.
+8.  Write a Java program to find the sum of diagonal elements in a 2D array.
+9.  Reverse the elements in an array of integers without using a second array.
+10. Write a Java program to enter n elements in an array and find smallest number among them. 
